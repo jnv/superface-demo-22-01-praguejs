@@ -4,7 +4,7 @@ This demo shows the setup with the following profiles:
 
 - [wather/current-city](https://superface.ai/weather/current-city) with wttr.in and OpenWeatherMap (optional)
 - [social-media/publish-post](https://superface.ai/social-media/publish-post) with Twitter
-- [communication/send-email](https://superface.ai/communication/send-email)
+- [communication/send-email](https://superface.ai/communication/send-email) with Sendgrid and Postmark
 
 ## Setup
 
